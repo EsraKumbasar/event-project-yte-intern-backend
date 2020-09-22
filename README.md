@@ -1,2 +1,2 @@
-# event project yte intern
-  In this project, Javascript / React.js as frontend, Spring as backend, and postgreSql as database were used.
+# event project yte intern backend
+  In this project Spring as backend and postgreSql as database were used.
